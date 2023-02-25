@@ -1,0 +1,15 @@
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample001_Helloconsole\bin\Debug\net6.0\Exzample001_Helloconsole.exe
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample001_Helloconsole\bin\Debug\net6.0\Exzample001_Helloconsole.deps.json
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample001_Helloconsole\bin\Debug\net6.0\Exzample001_Helloconsole.runtimeconfig.json
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample001_Helloconsole\bin\Debug\net6.0\Exzample001_Helloconsole.dll
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample001_Helloconsole\bin\Debug\net6.0\Exzample001_Helloconsole.pdb
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample001_Helloconsole\obj\Debug\net6.0\Exzample001_Helloconsole.csproj.AssemblyReference.cache
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample001_Helloconsole\obj\Debug\net6.0\Exzample001_Helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample001_Helloconsole\obj\Debug\net6.0\Exzample001_Helloconsole.AssemblyInfoInputs.cache
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample001_Helloconsole\obj\Debug\net6.0\Exzample001_Helloconsole.AssemblyInfo.cs
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample001_Helloconsole\obj\Debug\net6.0\Exzample001_Helloconsole.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample001_Helloconsole\obj\Debug\net6.0\Exzample001_Helloconsole.dll
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample001_Helloconsole\obj\Debug\net6.0\refint\Exzample001_Helloconsole.dll
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample001_Helloconsole\obj\Debug\net6.0\Exzample001_Helloconsole.pdb
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample001_Helloconsole\obj\Debug\net6.0\Exzample001_Helloconsole.genruntimeconfig.cache
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample001_Helloconsole\obj\Debug\net6.0\ref\Exzample001_Helloconsole.dll
