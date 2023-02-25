@@ -1,2 +1,3 @@
-﻿int namberA = 3;
-int namberB = 5;
+﻿double namberA = 12;
+double namberB = 5;
+Console.WriteLine(namberA/namberB);
