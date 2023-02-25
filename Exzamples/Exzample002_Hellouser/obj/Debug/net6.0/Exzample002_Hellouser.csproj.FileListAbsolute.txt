@@ -1,0 +1,15 @@
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample002_Hellouser\obj\Debug\net6.0\Exzample002_Hellouser.csproj.AssemblyReference.cache
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample002_Hellouser\obj\Debug\net6.0\Exzample002_Hellouser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample002_Hellouser\obj\Debug\net6.0\Exzample002_Hellouser.AssemblyInfoInputs.cache
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample002_Hellouser\obj\Debug\net6.0\Exzample002_Hellouser.AssemblyInfo.cs
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample002_Hellouser\obj\Debug\net6.0\Exzample002_Hellouser.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample002_Hellouser\bin\Debug\net6.0\Exzample002_Hellouser.exe
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample002_Hellouser\bin\Debug\net6.0\Exzample002_Hellouser.deps.json
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample002_Hellouser\bin\Debug\net6.0\Exzample002_Hellouser.runtimeconfig.json
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample002_Hellouser\bin\Debug\net6.0\Exzample002_Hellouser.dll
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample002_Hellouser\bin\Debug\net6.0\Exzample002_Hellouser.pdb
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample002_Hellouser\obj\Debug\net6.0\Exzample002_Hellouser.dll
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample002_Hellouser\obj\Debug\net6.0\refint\Exzample002_Hellouser.dll
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample002_Hellouser\obj\Debug\net6.0\Exzample002_Hellouser.pdb
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample002_Hellouser\obj\Debug\net6.0\Exzample002_Hellouser.genruntimeconfig.cache
+C:\Users\SONY\Desktop\Lesson C#\Exzamples\Exzample002_Hellouser\obj\Debug\net6.0\ref\Exzample002_Hellouser.dll
